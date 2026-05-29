@@ -17,7 +17,7 @@ O sistema foi construído utilizando o editor **Zed**, integrado à **API OpenRo
 ---
 
 ## 📖 Documentação Técnica
-Esses são os meus prompts utilizados na construção dos agentes: [clique aqui](https://github.com/user-attachments/files/28400671/Prompts.Utilizados.na.Construcao.dos.Agentes.pdf)
+Esses são os meus prompts utilizados na construção dos agentes: [clique aqui](Prompts.Utilizados.na.Construcao.dos.Agentes.pdf)
 
 ---
 
