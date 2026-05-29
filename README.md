@@ -17,7 +17,7 @@ O sistema foi construído utilizando o editor **Zed**, integrado à **API OpenRo
 ---
 
 ## 📖 Documentação Técnica
-Esses são os meus prompts utilizados na Construção dos agentes: [clique aqui](https://github.com/user-attachments/files/28400671/Prompts.Utilizados.na.Construcao.dos.Agentes.pdf)
+Esses são os meus prompts utilizados na construção dos agentes: [clique aqui](https://github.com/user-attachments/files/28400671/Prompts.Utilizados.na.Construcao.dos.Agentes.pdf)
 
 ---
 
@@ -57,31 +57,9 @@ Responsável por:
 ---
 
 ## 🔄 Fluxo da aplicação
-```text
-                                         👤 Usuário
-                                              │
-                                              ▼
-                                       🎯 Orquestrador
-                                              │
-                                              ▼
-                                      📝 Quiz de Perfil
-                                              │
-                                              ▼
-                                     📊 Perfil Consolidado
-                                              │
-                                              ▼
-                      ┌───────────────────────┼───────────────────────┐
-                      │                       │                       │
-                      ▼                       ▼                       ▼
-                🔍 Scout Agent         📚 Curator Agent        🎙️ Coach Agent
-                   (Vagas)                (Cursos)              (Entrevistas)
-                      │                       │                       │
-                      └───────────────────────┼───────────────────────┘
-                                              │
-                                              ▼
-                                  ✅ Resultado Personalizado                                                        
-                                                                                       
-``` 
+<p align="center">
+<img width="387" height="450" alt="recoloca-a" src="https://github.com/user-attachments/assets/5fc0e9a5-3b03-40d0-b10e-6c7eeda38317" />
+</p>
 
 ---
 
